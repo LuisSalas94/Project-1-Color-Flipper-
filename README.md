@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://distracted-hoover-8b5623.netlify.app/)
 
-## Authors
+## Author
 
 👤 **Author**
 
