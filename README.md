@@ -18,11 +18,10 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
+- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
 
 ## 🤝 Contributing
 
